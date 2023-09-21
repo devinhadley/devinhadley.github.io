@@ -137,3 +137,7 @@ main strong {
 .project-name {
   font-weight: bold;
 }
+
+.resume-download {
+  padding: 10px;
+}
